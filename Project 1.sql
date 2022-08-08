@@ -80,6 +80,6 @@ select*,(Addingpeoplevaccinated/Population)*100
 from polutionvac
 
 
---Temp Table
+
 
 
